@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anand</h1>
-<h3 align="center">A passionate flutter from India</h3>
+<h3 align="center">A passionate flutter developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*V4cV-UpcOn5sJ3hB75vdvA.gif">
 
 
